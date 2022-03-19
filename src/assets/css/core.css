@@ -1,0 +1,20 @@
+body {
+  background: #f8f8f8;
+}
+
+.img-wrapper {
+  max-width: 100%;
+  height: auto;
+}
+
+.row.no-gutter {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.row.no-gutter > [class*=col-] {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+/*# sourceMappingURL=core.css.map */
